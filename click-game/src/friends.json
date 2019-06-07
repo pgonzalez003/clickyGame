@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Donkey Kong",
+    "image": "https://vignette.wikia.nocookie.net/nintendo/images/a/a0/Super_Smash_Bros._Ultimate_-_Character_Art_-_Donkey_Kong.png/revision/latest/scale-to-width-down/310?cb=20180612221124&path-prefix=en",
+    "occupation": "Banana Smasher",
+    "location": "Kong Island"
+  },
+  {
+    "id": 2,
+    "name": "Captain Flacon",
+    "image": "https://vignette.wikia.nocookie.net/nintendo/images/7/79/Super_Smash_Bros._Ultimate_-_Character_Art_-_Captain_Falcon.png/revision/latest/scale-to-width-down/310?cb=20180612175527&path-prefix=en",
+    "occupation": "Space Ranger",
+    "location": "Nebula 5"
+  },
+  {
+    "id": 3,
+    "name": "Fox McCloud",
+    "image": "https://vignette.wikia.nocookie.net/nintendo/images/d/d3/Fox_McCloud_SFZ.png/revision/latest/scale-to-width-down/281?cb=20170907013942&path-prefix=en",
+    "occupation": "Star Fleet Captain",
+    "location": "Space"
+  },
+  {
+    "id": 4,
+    "name": "Jiggly Puff",
+    "image": "https://vignette.wikia.nocookie.net/nintendo/images/6/6b/Super_Smash_Bros._Ultimate_-_Character_Art_-_Jigglypuff.png/revision/latest/scale-to-width-down/220?cb=20180612175613&path-prefix=en",
+    "occupation": "Singer",
+    "location": "Veridian Forest"
+  },
+  {
+    "id": 5,
+    "name": "Kirby",
+    "image": "https://vignette.wikia.nocookie.net/nintendo/images/7/7b/Super_Smash_Bros._Ultimate_-_Character_Art_-_Kirby.png/revision/latest/scale-to-width-down/310?cb=20180612175227&path-prefix=en",
+    "occupation": "Brick",
+    "location": "Kirby Land"
+  },
+  {
+    "id": 6,
+    "name": "Link",
+    "image": "https://vignette.wikia.nocookie.net/nintendo/images/4/42/Super_Smash_Bros._Ultimate_-_Character_Art_-_Link.png/revision/latest/scale-to-width-down/310?cb=20180612222832&path-prefix=en",
+    "occupation": "Zelda saver",
+    "location": "Hyrule"
+  },
+  {
+    "id": 7,
+    "name": "Luigi",
+    "image": "https://vignette.wikia.nocookie.net/nintendo/images/b/b1/Super_Smash_Bros._Ultimate_-_Character_Art_-_Luigi.png/revision/latest/scale-to-width-down/250?cb=20180612224158&path-prefix=en",
+    "occupation": "Plumber",
+    "location": "Bowser Castle"
+  },
+  {
+    "id": 8,
+    "name": "Mario",
+    "image": "https://vignette.wikia.nocookie.net/nintendo/images/8/80/Super_Smash_Bros._Ultimate_-_Character_Art_-_Mario.png/revision/latest/scale-to-width-down/250?cb=20180612202944&path-prefix=en",
+    "occupation": "Plumber",
+    "location": "Bowser Castle"
+  },
+  {
+    "id": 9,
+    "name": "Ness",
+    "image": "https://vignette.wikia.nocookie.net/nintendo/images/d/d5/Super_Smash_Bros._Ultimate_-_Character_Art_-_Ness.png/revision/latest/scale-to-width-down/310?cb=20180612175406&path-prefix=en",
+    "occupation": "Electric Kid",
+    "location": "Paper Town"
+  },
+  {
+    "id": 10,
+    "name": "Pikachu",
+    "image": "https://img.rankedboost.com/wp-content/plugins/super-smash-bros-ultimate/assets/character-images-main/Pikachu_SSBU.png",
+    "occupation": "Pokemon",
+    "location": "Palet Town"
+  },
+  {
+    "id": 11,
+    "name": "Samus Aran",
+    "image": "https://vignette.wikia.nocookie.net/nintendo/images/0/09/Super_Smash_Bros._Ultimate_-_Character_Art_-_Samus.png/revision/latest/scale-to-width-down/310?cb=20180612175040&path-prefix=en",
+    "occupation": "Space Commando",
+    "location": "Space"
+  },
+  {
+    "id": 12,
+    "name": "Yoshi",
+    "image": "https://vignette.wikia.nocookie.net/nintendo/images/a/ac/Yoshi%27s_Crafted_World_-_Character_Artwork_01.png/revision/latest/scale-to-width-down/220?cb=20181226211730&path-prefix=en",
+    "occupation": "Dinosaur",
+    "location": "Yoshi Land"
+  }
+]
